@@ -1,8 +1,6 @@
 # Credit-Scoring-Prediction-Using-Machine-Learning
 Machine learning model to predict whether a loan applicant is creditworthy or at risk of default. Includes data analysis, feature engineering, model training, and performance evaluation.
 
-# Credit Scoring Model — Machine Learning Project
-
 ## Project Overview
 This project builds a machine learning model to predict the creditworthiness of loan applicants using financial and behavioral data. Credit scoring is widely used by banks, fintech companies, and lending institutions to evaluate whether a borrower is likely to repay a loan or default.
 
